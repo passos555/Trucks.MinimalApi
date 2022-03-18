@@ -17,4 +17,4 @@ dotnet run
 
 ## Testing
 
-Simply run `dotnet test` the base directory
+Simply run `dotnet test` in the base directory
