@@ -35,7 +35,7 @@ public static class TrucksEndpoints
 
             if (truck is null) return Results.NotFound();
 
-            var validationResult = validator.Validate(truck);
+            var validationResult = validator.Validate(inputTruck);
             if (!validationResult.IsValid)
                 return Results.ValidationProblem(validationResult.ToDictionary());
 
