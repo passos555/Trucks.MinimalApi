@@ -1,10 +1,12 @@
 # Trucks.MinimalApi
 
+Project develop using .net 6 new resource: `MinimalApi`
+
 ## Building and Running
 
 Compiling the application yourself requires Git and the
-[.NET SDK](https://www.microsoft.com/net/download/core 'Download the .NET SDK')
-to be installed (version `6.0.0` or later).
+[.NET SDK](https://www.microsoft.com/net/download/core "Download the .NET SDK")
+to be installed (version `6.0.1` or later).
 
 To build and run the application locally from a terminal/command-line, run the
 following set of commands:
